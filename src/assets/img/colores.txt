@@ -1,0 +1,17 @@
+Coral
+#ff4b6d
+
+Azul Oscuro
+#002146
+
+Facebook
+#2e3192
+
+Instagram
+#9e005d
+
+Whatsapp
+#39b54a
+
+Rojo
+#c1272d

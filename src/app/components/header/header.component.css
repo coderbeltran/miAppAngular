@@ -1,0 +1,20 @@
+#header{
+    padding: 120px 0 10px 0;
+}
+#header .container{
+    width: 60%;
+    max-width: 1400px;
+    margin: auto;
+}
+#header .alien{
+    width: 180px;
+    height: auto;
+    display: block;
+    margin:  0px  auto 10px auto;
+}
+#header .logo{
+    width: 180px;
+    height: auto;
+    display: block;
+    margin: auto;
+}

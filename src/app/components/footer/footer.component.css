@@ -1,0 +1,31 @@
+#footer{
+    margin: 10px 0px;
+}
+#footer .container{
+    width: 60%;
+    max-width: 1400px;
+    margin: auto;
+}
+#footer p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+}
+#footer .footer1{
+   color: #ff4b6d;
+   font-weight: 400;
+
+}
+#footer .footer2, .footer3{
+    color: #fff;
+    font-weight: 400;
+ 
+ }
+ #footer .linea{
+    width: 200px;
+    height: 5px;
+    background: #ff4b6d;
+    margin: auto;
+ }
